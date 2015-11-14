@@ -4,12 +4,12 @@ title: Blog
 permalink: /blog/
 ---
 
-#### 2015-11-10: Error notification service available
+#### 2015-11-15: Error notification service available
 
+We have set up a service (Sentry) that can notify you by email when there is a 500 error on your server.
+More info [here](http://otree.readthedocs.org/en/latest/server.html#sentry)
 
-
-
-#### 2015-11-09: New version available
+#### 2015-11-14: New version available
 
 We have released a new version of otree-core. It is mostly a bugfix release, but has a few new features.
 Here are some notable changes:
