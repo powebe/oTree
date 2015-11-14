@@ -25,11 +25,11 @@ and charges around $20 an hour.
 #### Can I use oTree with AMT (Amazon Mechanical Turk)?
 
 Yes, oTree has integration with AMT
-(checkout the [docs]({{ site.url_docs }}#amazon-mechanical-turk) for guidelines)
+(checkout the [docs]({{ site.url_docs }}) for guidelines).
 
 #### What languages does oTree support?
 
-Apps can be programmed in English, German, Spanish, French, Italian, and Russian.
+Apps can be programmed in Chinese, English, French, German, Hungarian, Italian, Japanese, Russian, and Spanish.
 For more info or to contribute an additional language, see the [docs]({{ site.url_localization }}).
 
 #### How stable is oTree?
