@@ -22,7 +22,24 @@ Yes. Send an email to chris@otree.org and I can put you in touch with
 a very good freelance developer who has experience with oTree programming
 and charges around $20 an hour.
 
-#### Can I use oTree with AMT (Amazon Mechanical Turk)?
+#### How stable is oTree?
+
+oTree is fairly stable, but some parts of oTree are still under development.
+If you encounter a bug in oTree, please email chris@otree.org.
+
+Also, make sure to upgrade otree-core frequently, to get our latest bugfixes.
+We recommend doing this on a weekly basis.
+
+#### How can I contribute to oTree?
+
+The simplest way to contribute is to use oTree yourself,
+and then send notes about your experience to chris@otree.org.
+You could tell us about your experience getting started and any issues you noticed,
+even if they are minor. Your feedback will help us to make fixes in the software or improve the documentation.
+
+If you are interested in contributing as a developer to oTree, send an email to chris@otree.org.
+
+#### Can I use oTree with Amazon Mechanical Turk?
 
 Yes, oTree has integration with AMT
 (checkout the [docs]({{ site.url_docs }}) for guidelines).
@@ -32,11 +49,29 @@ Yes, oTree has integration with AMT
 Apps can be programmed in Chinese, English, French, German, Hungarian, Italian, Japanese, Russian, and Spanish.
 For more info or to contribute an additional language, see the [docs]({{ site.url_localization }}).
 
-#### How stable is oTree?
+#### Who is using oTree?
 
-oTree is fairly stable, but some parts of oTree are still under development and may have bugs.
-If you encounter a bug in oTree, please email chris@otree.org.
+We have been contacted by people in the following countries/locations who are using oTree:
 
-Also, make sure to upgrade otree-core frequently, to get our latest bugfixes.
-In the launcher, click "Version select" and choose the most recent version.
-We recommend doing this on a weekly basis.
+Australia (Melbourne, Perth, Queensland),
+Austria (Innsbruck, Vienna),
+Belgium (Leige),
+Canada (Guelph, Toronto),
+China (Beijing Normal University, Wuhan),
+Finland (Aalto),
+France (Montpellier, Toulouse, Lille, Nice, ),
+Germany (Mannheim, Munich),
+Hungary (Academy of Sciences),
+Italy (Bologna, European University Institute, Florence),
+Japan (Tokyo),
+Kenya (Nairobi),
+Netherlands (Amsterdam, Maastricht, Nijmegen, Tilburg, United Nations University, Utrecht),
+Norway (Bergen),
+Russia (RPANEPA),
+South Africa (Pretoria),
+Spain (Madrid, Malaga, Valencia, Zaragoza),
+Sweden (Gothenburg, Stockholm),
+Switzerland (ETH, Geneva, Lausanne, Zurich),
+U.K. (Cambridge, Lancaster, Oxford),
+U.S. (Boston College, Colby, GMU, Iowa State, Northwestern,
+Ohio State, UCSD, University of Chicago, Williams, Vanderbilt, Yale)
