@@ -27,7 +27,7 @@ and charges around $20 an hour.
 oTree is fairly stable, but some parts of oTree are still under development.
 If you encounter a bug in oTree, please email chris@otree.org.
 
-Also, make sure to upgrade otree-core frequently, to get our latest bugfixes.
+You should upgrade otree-core frequently, to get our latest bugfixes.
 We recommend doing this on a weekly basis.
 
 #### How can I contribute to oTree?
@@ -67,7 +67,7 @@ Japan (Tokyo),
 Kenya (Nairobi),
 Netherlands (Amsterdam, Maastricht, Nijmegen, Tilburg, United Nations University, Utrecht),
 Norway (Bergen),
-Russia (RPANEPA),
+Russia (RANEPA),
 South Africa (Pretoria),
 Spain (Madrid, Malaga, Valencia, Zaragoza),
 Sweden (Gothenburg, Stockholm),
