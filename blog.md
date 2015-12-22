@@ -4,6 +4,10 @@ title: Blog
 permalink: /blog/
 ---
 
+#### 2015-12-22: Follow us on Twitter @otree
+
+https://twitter.com/otree
+
 #### 2015-11-15: Error notification service available
 
 We have set up a service (Sentry) that can notify you by email when there is a 500 error on your server.
