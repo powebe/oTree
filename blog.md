@@ -6,7 +6,7 @@ permalink: /blog/
 
 #### 2015-12-22: Follow us on Twitter @otree
 
-https://twitter.com/otree
+[https://twitter.com/otree](https://twitter.com/otree)
 
 #### 2015-11-15: Error notification service available
 
