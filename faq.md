@@ -19,8 +19,7 @@ Yes, it is easy to modify one of our 20+ existing games or create your own.
 #### Can I hire someone to build my oTree app for me?
 
 Yes. Send an email to chris@otree.org and I can put you in touch with
-a very good freelance developer who has experience with oTree programming
-and charges around $20 an hour.
+a good freelance developer who has experience with oTree programming.
 
 #### How stable is oTree?
 
