@@ -4,6 +4,22 @@ title: Blog
 permalink: /blog/
 ---
 
+#### 2016-1-19: Europe visit schedule
+
+- Jan 25-26: Zaragoza
+- Jan 28: Lyon
+- Jan 29: Nice
+- Feb 1-2: Bonn
+- Feb 3-4: Paris
+- Feb 5: Amsterdam
+- Feb 10-11: Florence
+- Feb 12: Trento
+- Feb 15: Innsbruck
+
+Email chris@otree.org if you are interested in attending one of the below meetings.
+My schedule is full until Feb 15, but I am open to doing more presentations after that.
+
+
 #### 2015-12-22: Follow us on Twitter @otree
 
 [https://twitter.com/otree](https://twitter.com/otree)
