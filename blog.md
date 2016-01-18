@@ -4,7 +4,8 @@ title: Blog
 permalink: /blog/
 ---
 
-#### <a name="europe-trip">2016-1-19: Europe visit schedule</a>
+<a name="europe-trip"></a>
+#### 2016-1-19: Europe visit schedule
 
 - Jan 28: Lyon, France
 - Jan 29: Nice, France
