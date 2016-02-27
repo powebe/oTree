@@ -23,7 +23,7 @@ a good freelance developer who has experience with oTree programming.
 
 #### How stable is oTree?
 
-oTree is fairly stable, but some parts of oTree are still under development.
+oTree is fairly stable.
 If you encounter a bug in oTree, please email chris@otree.org.
 
 You should upgrade otree-core frequently, to get our latest bugfixes.
@@ -54,14 +54,14 @@ We have been contacted by people in the following countries/locations who are us
 
 Australia (Melbourne, Perth, Queensland),
 Austria (Innsbruck, Vienna),
-Belgium (Leige),
+Belgium (Liege),
 Canada (Guelph, Toronto),
 China (Beijing Normal University, Wuhan),
 Finland (Aalto),
-France (Montpellier, Toulouse, Lille, Nice, ),
-Germany (Mannheim, Munich),
+France (Montpellier, Toulouse, Lille, Nice, Lyon),
+Germany (Mannheim, Munich, Bonn, Max Planck),
 Hungary (Academy of Sciences),
-Italy (Bologna, European University Institute, Florence),
+Italy (Bologna, Florence, European University Institute, Trento),
 Japan (Tokyo),
 Kenya (Nairobi),
 Netherlands (Amsterdam, Maastricht, Nijmegen, Tilburg, United Nations University, Utrecht),
@@ -73,4 +73,4 @@ Sweden (Gothenburg, Stockholm),
 Switzerland (ETH, Geneva, Lausanne, Zurich),
 U.K. (Cambridge, Lancaster, Oxford),
 U.S. (Boston College, Colby, GMU, Iowa State, Northwestern,
-Ohio State, UCSD, University of Chicago, Williams, Vanderbilt, Yale)
+Ohio State, Purdue, Trinity, UCSD, University of Chicago, Williams, Vanderbilt, Yale)
