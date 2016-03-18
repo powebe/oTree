@@ -68,5 +68,4 @@ We have been contacted by people in the following countries/locations who are us
 - Sweden (Gothenburg, Stockholm)
 - Switzerland (ETH, Geneva, Lausanne, Zurich)
 - U.K. (Cambridge, Lancaster, Oxford)
-- U.S. (Boston College, Colby, GMU, Iowa State, Northwestern
-- Ohio State, Purdue, Trinity, UCSD, University of Chicago, Williams, Vanderbilt, Yale)
+- U.S. (Boston College, Colby, GMU, Iowa State, Northwestern, Ohio State, Purdue, Trinity, UCSD, University of Chicago, Williams, Vanderbilt, Yale)
