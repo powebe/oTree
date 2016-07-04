@@ -16,11 +16,6 @@ oTree is licensed under the
 Yes, it is easy to modify one of our 20+ existing games or create your own.
 (check out the [tutorial]({{ site.url_tutorial }}) or the [docs]({{ site.url_docs }}) for guidelines).
 
-#### Can I hire someone to build my oTree app for me?
-
-Yes. Send an email to chris@otree.org and I can put you in touch with
-a good freelance developer who has experience with oTree programming.
-
 #### Is there a mailing list?
 
 We have a Google Group [here](https://groups.google.com/forum/#!forum/otree).
