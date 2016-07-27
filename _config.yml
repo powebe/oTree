@@ -11,6 +11,7 @@ url_download: "http://otree.readthedocs.org/en/latest/setup.html"
 url_tutorial: "http://otree.readthedocs.org/en/latest/tutorial/intro.html"
 url_ztree: "http://otree.readthedocs.org/en/latest/ztree.html"
 url_localization: "http://otree.readthedocs.org/en/latest/localization.html"
+url_github: "https://github.com/oTree-org/oTree"
 
 # Google analytics
 google_analytics: UA-53910404-1
