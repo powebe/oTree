@@ -1,13 +1,13 @@
 # Site settings
 title:       oTree
 email:       chris@otree.org
-author:      Chris Wickens
+author:      chris@otree.org
 description: "oTree : A software platform for economics experiments"
 baseurl:     ""
 url:         ""
 url_docs:    "http://otree.readthedocs.org/en/latest/"
 url_demo:    "http://otree-demo.herokuapp.com/demo/"
-url_download: "http://otree.readthedocs.org/en/latest/setup.html"
+url_download: "http://otree.readthedocs.org/en/latest/install.html"
 url_tutorial: "http://otree.readthedocs.org/en/latest/tutorial/intro.html"
 url_ztree: "http://otree.readthedocs.org/en/latest/ztree.html"
 url_localization: "http://otree.readthedocs.org/en/latest/localization.html"
