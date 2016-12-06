@@ -21,6 +21,11 @@ We have an active community on Google Groups
 [here](https://groups.google.com/forum/#!forum/otree).
 There are several posts per day usually.
 
+#### Can I hire someone to program my experiment for me?
+
+Email chris@otree.org, and I can forward your request to 
+a freelance programmer skilled with oTree.
+
 #### How can I contribute to oTree?
 
 The simplest way to contribute is to use oTree yourself,
