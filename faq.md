@@ -21,6 +21,13 @@ We have an active community on Google Groups
 [here](https://groups.google.com/forum/#!forum/otree).
 There are several posts per day usually.
 
+#### Who is using oTree?
+
+About 400 people have signed up for the oTree mailing list.
+
+Some people share their oTree projects on GitHub;
+you can see various projects [here](https://github.com/search?o=desc&q=OTREE_PRODUCTION&s=indexed&type=Code&utf8=%E2%9C%93).
+
 #### Can I hire someone to program my experiment for me?
 
 Email chris@otree.org, and I can forward your request to 
@@ -39,35 +46,3 @@ If you are interested in contributing as a developer to oTree, send an email to 
 
 Yes, oTree has integration with AMT
 (checkout the [docs]({{ site.url_docs }}) for guidelines).
-
-#### What languages does oTree support?
-
-Apps can be programmed in any language; officially supported languages include
-Chinese, English, French, German, Hungarian, Italian, Japanese, Norwegian, Russian, and Spanish.
-For more info or to contribute an additional language, see the [docs]({{ site.url_localization }}).
-
-#### Who is using oTree?
-
-We have been contacted by people in the following countries/locations who are using oTree:
-
-- Australia (Melbourne, Perth, Queensland)
-- Austria (Innsbruck, Vienna)
-- Belgium (Liege)
-- Canada (Guelph, Toronto)
-- China (Beijing Normal University, Wuhan)
-- Finland (Aalto)
-- France (Montpellier, Toulouse, Lille, Nice, Lyon)
-- Germany (Mannheim, Munich, Bonn, Max Planck)
-- Hungary (Academy of Sciences)
-- Italy (Bologna, Florence, European University Institute, Trento)
-- Japan (Tokyo)
-- Kenya (Nairobi)
-- Netherlands (Amsterdam, Maastricht, Nijmegen, Tilburg, United Nations University, Utrecht)
-- Norway (Bergen)
-- Russia (RANEPA)
-- South Africa (Pretoria)
-- Spain (Madrid, Malaga, Valencia, Zaragoza)
-- Sweden (Gothenburg, Stockholm)
-- Switzerland (ETH, Geneva, Lausanne, Zurich)
-- U.K. (Cambridge, Lancaster, Oxford)
-- U.S. (Boston College, Colby, GMU, Iowa State, Northwestern, Ohio State, Purdue, Trinity, UCSD, University of Chicago, Williams, Vanderbilt, Yale)
