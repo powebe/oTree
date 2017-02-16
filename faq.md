@@ -25,8 +25,8 @@ There are several posts per day usually.
 
 About 400 people have signed up for the oTree mailing list.
 
-Some people share their oTree projects on GitHub;
-you can see various projects [here](https://github.com/search?o=desc&q=OTREE_PRODUCTION&s=indexed&type=Code&utf8=%E2%9C%93).
+Some people share their oTree projects on
+[GitHub](https://github.com/search?o=desc&q=OTREE_PRODUCTION&s=indexed&type=Code&utf8=%E2%9C%93).
 
 #### Can I hire someone to program my experiment for me?
 
