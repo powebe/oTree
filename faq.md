@@ -21,12 +21,10 @@ We have an active community on Google Groups
 [here](https://groups.google.com/forum/#!forum/otree).
 There are several posts per day usually.
 
-#### Who is using oTree?
+#### How many people are using oTree?
 
-About 400 people have signed up for the oTree mailing list.
-
-Some people share their oTree projects on
-[GitHub](https://github.com/search?o=desc&q=OTREE_PRODUCTION&s=indexed&type=Code&utf8=%E2%9C%93).
+We don't keep track of usage numbers, but
+about 450 people have signed up for the oTree mailing list.
 
 #### Can I hire someone to program my experiment for me?
 
