@@ -6,7 +6,7 @@ permalink: /faq/
 
 #### Can I use oTree for free?
 
-Yes, oTree is oTree is licensed under the
+Yes, oTree is licensed under the
 <a href="http://opensource.org/licenses/MIT" target="_blank">MIT open source license</a>
 with the added requirement of a citation.
 
@@ -24,7 +24,7 @@ There are several posts per day usually.
 #### How many people are using oTree?
 
 We don't keep track of usage numbers, but
-about 450 people have signed up for the oTree mailing list.
+about 500 people have are on the oTree mailing list.
 
 #### Can I hire someone to program my experiment for me?
 
