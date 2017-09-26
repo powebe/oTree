@@ -8,7 +8,8 @@ permalink: /faq/
 
 Yes, oTree is licensed under the
 <a href="http://opensource.org/licenses/MIT" target="_blank">MIT open source license</a>
-with the added requirement of a citation.
+with the added requirement of a citation of our
+[paper](http://dx.doi.org/10.1016/j.jbef.2015.12.001).
 
 #### Is it easy to start with oTree?
 
@@ -20,11 +21,6 @@ Yes, it is easy to modify one of our 20 existing games or create your own.
 We have an active community on Google Groups
 [here](https://groups.google.com/forum/#!forum/otree).
 There are several posts per day usually.
-
-#### How many people are using oTree?
-
-We don't keep track of usage numbers, but
-about 500 people have are on the oTree mailing list.
 
 #### Can I hire someone to program my experiment for me?
 
@@ -44,3 +40,7 @@ If you are interested in contributing as a developer to oTree, send an email to 
 
 Yes, oTree has integration with AMT
 (checkout the [docs]({{ site.url_docs }}) for guidelines).
+
+#### Is there a paper describing oTree?
+
+Yes, see [here](http://dx.doi.org/10.1016/j.jbef.2015.12.001).
