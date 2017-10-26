@@ -22,19 +22,18 @@ We have an active community on Google Groups
 [here](https://groups.google.com/forum/#!forum/otree).
 There are several posts per day usually.
 
-#### Can I hire someone to program my experiment for me?
+#### Are you available for consulting?
 
-Email chris@otree.org, and I can forward your request to 
-a freelance programmer skilled with oTree.
+Yes, I am available for workshops and programming projects.
+Contact chris@otree.org.
 
 #### How can I contribute to oTree?
 
 The simplest way to contribute is to use oTree yourself,
 and then send notes about your experience to chris@otree.org.
 You could tell us about your experience getting started and any issues you noticed,
-even if they are minor. Your feedback will help us to make fixes in the software or improve the documentation.
-
-If you are interested in contributing as a developer to oTree, send an email to chris@otree.org.
+even if they are minor.
+Your feedback will help us to make fixes in the software or improve the documentation.
 
 #### Can I use oTree with Amazon Mechanical Turk?
 
