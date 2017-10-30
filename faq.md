@@ -22,11 +22,6 @@ We have an active community on Google Groups
 [here](https://groups.google.com/forum/#!forum/otree).
 There are several posts per day usually.
 
-#### Are you available for consulting?
-
-Yes, I am available for workshops and programming projects.
-Contact chris@otree.org.
-
 #### How can I contribute to oTree?
 
 The simplest way to contribute is to use oTree yourself,
@@ -40,6 +35,21 @@ Your feedback will help us to make fixes in the software or improve the document
 Yes, oTree has integration with AMT
 (checkout the [docs]({{ site.url_docs }}) for guidelines).
 
-#### Is there a paper describing oTree?
+#### Are you available for workshops?
 
-Yes, see [here](http://dx.doi.org/10.1016/j.jbef.2015.12.001).
+Yes, I have done a number of workshops, on a paid basis.
+I can come to your institution and give a few days of instruction.
+
+Usually the first day starts with a 1-hour overview of oTree for a general
+audience. Then we begin with hands-on instructions on how to program oTree
+experiments, as well as things like deploying to Mechanical Turk, using bots,
+using the admin interface, setting up a server, etc.
+
+No prior experience with oTree is necessary, although participants
+should have completed a basic tutorial in Python programming.
+
+If interested, contact chris@otree.org.
+
+#### Are you available for development of oTree experiments?
+
+Yes, please contact chris@otree.org.
