@@ -37,16 +37,14 @@ Yes, oTree has integration with AMT
 
 #### Are you available for workshops?
 
-Yes, I have done a number of workshops, on a paid basis.
-I can come to your institution and give a few days of instruction.
-
-Usually the first day starts with a 1-hour overview of oTree for a general
-audience. Then we begin with hands-on instructions on how to program oTree
-experiments, as well as things like deploying to Mechanical Turk, using bots,
-using the admin interface, setting up a server, etc.
+Yes, on a paid basis.
+Workshops are usually 2-4 days.
 
 No prior experience with oTree is necessary, although participants
 should have completed a basic tutorial in Python programming.
+
+I have done workshops at Oxford, Aarhus, Bonn, Cologne, Utrecht, Tilburg,
+Exeter, Ann Arbor, Stanford, and GfK Verein.
 
 If interested, contact chris@otree.org.
 

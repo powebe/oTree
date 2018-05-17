@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Demo
+title: Demos
 permalink: /demo/
 ---
 
@@ -11,3 +11,5 @@ permalink: /demo/
 -   [Choice list risk elicitation](http://cl-demo.herokuapp.com/demo/) by Felix Holzmeister
 -   [Economics Games](https://economics-games.com/games) (see the games with the label "oTree")
 -   [Real Effort Task](https://morning-citadel-36858.herokuapp.com/) by Philipp Chapkovski (uses Django channels for realtime updates)
+
+To list your own app here, email chris@otree.org.
