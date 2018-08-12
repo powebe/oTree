@@ -20,7 +20,6 @@ Yes, it is easy to modify one of our 20 existing games or create your own.
 
 We have an active community on Google Groups
 [here](https://groups.google.com/forum/#!forum/otree).
-There are several posts per day usually.
 
 #### How can I contribute to oTree?
 
@@ -38,7 +37,7 @@ Yes, oTree has integration with AMT
 #### Who are the people behind oTree?
 
 [Daniel Chen](http://users.nber.org/~dlchen/)
-plays an instrumental role in recruiting Chris Wickens for building oTree.
+plays an instrumental role in recruiting [Chris Wickens](mailto:chris@otree.org) for building oTree.
 Both of them have been working together since 2008 on social science experiments
 as well as various other projects.
 oTree can be used for large-scale networks, voting, macroeconomics, and mixed agent-based experiments.
@@ -47,8 +46,7 @@ including half a million of Daniel Chen's start-up fund and annual personnel res
 to accomplish the oTree that we have today.
 oTree is aimed to be as easy to use as possible for students to program their own experiments.
 We encourage users to share links to their projects so that future generations of students
-can run their experiments and iterate social science forward.
-Chris Wickens is the key developer of oTree;
+can run their experiments and iterate social science forward. Chris Wickens is the key developer of oTree;
 he has worked for Daniel Chen full-time from 2012 to the beginning of 2017,
 and at various other points since 2008.
 Please send Chris experiments you would like to share and send Daniel any interest in teaching oTree at high school-level or younger.
