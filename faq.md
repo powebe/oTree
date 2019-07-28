@@ -16,7 +16,7 @@ with the added requirement of a citation of our
 Yes, it is easy to modify one of our 20 existing games or create your own.
 (check out the [tutorial]({{ site.url_tutorial }}) or the [docs]({{ site.url_docs }}) for guidelines).
 
-#### Where can I ask oTree programming questions?
+#### Where can I ask oTree questions?
 
 We have an active community on Google Groups
 [here](https://groups.google.com/forum/#!forum/otree).
@@ -50,16 +50,3 @@ can run their experiments and iterate social science forward. Chris Wickens is t
 he has worked for Daniel Chen full-time from 2012 to the beginning of 2017,
 and at various other points since 2008.
 Please send Chris experiments you would like to share and send Daniel any interest in teaching oTree at high school-level or younger.
-
-#### Are you available for workshops?
-
-Yes, on a paid basis.
-Workshops are usually 2-4 days.
-
-No prior experience with oTree is necessary, although participants
-should have completed a basic tutorial in Python programming.
-
-I have done workshops at Oxford, Aarhus, Bonn, Cologne, Utrecht, Tilburg,
-Exeter, Ann Arbor, Stanford, and GfK Verein.
-
-If interested, contact chris@otree.org.
